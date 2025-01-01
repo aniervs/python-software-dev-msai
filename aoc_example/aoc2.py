@@ -9,7 +9,8 @@ def process_input():
         lines = f.readlines()
         all_lists = []
         for line in lines:
-            all_lists.append(list(map(int, line.strip().split(' '))))
+            # print(line)
+            all_lists.append(list(map(int, line.strip().split('  '))))
 
     return all_lists
 
