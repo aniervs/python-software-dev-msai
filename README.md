@@ -1,4 +1,7 @@
 # python-software-dev-msai
+
+> Reference repository for the Python Software Development course in the MSAI program. I keep this copy public for study and reference purposes; the course materials are authored by the teaching team.
+
 This is the repository for the Python class at the MSAI program in the Fall 2024 semester.
 
 This course is about Software Development with Python.
